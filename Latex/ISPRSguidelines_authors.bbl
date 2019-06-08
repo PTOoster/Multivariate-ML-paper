@@ -1,0 +1,67 @@
+\begin{thebibliography}{xx}
+
+\bibitem[Dubayah et al., 2017]{dubayah2017}
+Dubayah, R., Swatantran, A., Huang, W., Duncanson, L., Tang, H., Johnson, K.,
+  Dunne, J. and Hurtt, G., 2017.
+\newblock {CMS: LiDAR-derived Biomass, Canopy Height and Cover, Sonoma County,
+  California, 2013}.
+\newblock {ORNL DAAC, Oak Ridge, Tennessee, USA
+  https://doi.org/10.3334/ORNLDAAC/1523}.
+
+\bibitem[Gago-Silva, 2016]{gago-silva2016}
+Gago-Silva, A., 2016.
+\newblock {GRASS GIS in Grid Environment}.
+\newblock {Figshare https://doi.org/10.6084/m9.figshare.3188950}.
+
+\bibitem[{GRASS Development Team}, 2015]{grass2015}
+{GRASS Development Team}, 2015.
+\newblock {Geographic Resources Analysis Support System (GRASS) Software,
+  Version 6.4}.
+\newblock {Open Source Geospatial Foundation http://grass.osgeo.org (1 June
+  2017)}.
+
+\bibitem[{GRASS Development Team}, 2017]{grass2017}
+{GRASS Development Team}, 2017.
+\newblock {Geographic Resources Analysis Support System (GRASS) Software}.
+\newblock {Open Source Geospatial Foundation http://grass.osgeo.org (20
+  September 2017)}.
+
+\bibitem[{Lennert, M. and GRASS Development Team}, 2017]{lennert2017}
+{Lennert, M. and GRASS Development Team}, 2017.
+\newblock {Addon i.segment.stats}.
+\newblock {Geographic Resources Analysis Support System (GRASS) Software,
+  Version 7.2, Open Source Geospatial Foundation
+  https://grass.osgeo.org/grass7/manuals/addons/\linebreak 
+  i.segment.stats.html (1 June
+  2017)}.
+
+\bibitem[Maas et al., 2017]{maas2017}
+Maas, A., Rottensteiner, F. and Heipke, C., 2017.
+\newblock {Classification under label noise using outdated maps}.
+\newblock {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial
+  Information Sciences, Volume IV-1/W1, pp 215-222}.
+
+\bibitem[Smith, 1987a]{smith1987art}
+Smith, J., 1987a.
+\newblock Close range photogrammetry for analyzing distressed trees.
+\newblock {\em Photogrammetria} 42(1), pp.~47--56.
+
+\bibitem[Smith, 1987b]{smith1987rep}
+Smith, J., 1987b.
+\newblock {Economic printing of color orthophotos}.
+\newblock Technical report, Report KRL-01234, Kennedy Research Laboratories,
+  Arlington, VA, USA.
+
+\bibitem[Smith, 1989]{smith1989}
+Smith, J., 1989.
+\newblock {\em Space Data from Earth Sciences}.
+\newblock Elsevier, Amsterdam, pp.~321--332.
+
+\bibitem[Smith, 2000]{smith2000}
+Smith, J., 2000.
+\newblock Remote sensing to predict volcano outbursts.
+\newblock In: \emph{{The International Archives of the Photogrammetry, Remote
+  Sensing and Spatial Information Sciences}}, Kyoto, Japan, Vol. XXVII, Part
+  B1, pp.~456--469.
+
+\end{thebibliography}

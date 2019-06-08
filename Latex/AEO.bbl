@@ -1,0 +1,164 @@
+\begin{thebibliography}{xx}
+
+\bibitem[Breiman, 2001]{Breiman2001}
+Breiman, L., 2001.
+\newblock {Random Forests}.
+\newblock {\em Machine Learning} 45(1), pp.~5--32.
+
+\bibitem[Caicedo et al., 2014]{Caicedo2014}
+Caicedo, J. P.~R., Verrelst, J., Munoz-Mari, J., Moreno, J. and Camps-Valls,
+  G., 2014.
+\newblock {Toward a Semiautomatic Machine Learning Retrieval of Biophysical
+  Parameters}.
+\newblock {\em IEEE Journal of Selected Topics in Applied Earth Observations
+  and Remote Sensing} 7(4), pp.~1249--1259.
+
+\bibitem[Chung and Keles, 2010]{Chung2010}
+Chung, D. and Keles, S., 2010.
+\newblock {Sparse Partial Least Squares Classification for High Dimensional
+  Data}.
+\newblock {\em Statistical Applications in Genetics and Molecular Biology}.
+
+\bibitem[D{\'{i}}az et al., 2016]{Diaz2016}
+D{\'{i}}az, S., Kattge, J., Cornelissen, J.~H., Wright, I.~J., Lavorel, S.,
+  Dray, S., Reu, B., Kleyer, M., Wirth, C., {Colin Prentice}, I., Garnier, E.,
+  B{\"{o}}nisch, G., Westoby, M., Poorter, H., Reich, P.~B., Moles, A.~T.,
+  Dickie, J., Gillison, A.~N., Zanne, A.~E., Chave, J., {Joseph Wright}, S.,
+  {Sheremet Ev}, S.~N., Jactel, H., Baraloto, C., Cerabolini, B., Pierce, S.,
+  Shipley, B., Kirkup, D., Casanoves, F., Joswig, J.~S., G{\"{u}}nther, A.,
+  Falczuk, V., R{\"{u}}ger, N., Mahecha, M.~D. and Gorn{\'{e}}, L.~D., 2016.
+\newblock {The global spectrum of plant form and function}.
+\newblock {\em Nature} 529(7585), pp.~167--171.
+
+\bibitem[Elarab et al., 2015]{Elarab2015}
+Elarab, M., Ticlavilca, A.~M., Torres-Rua, A.~F., Maslova, I. and McKee, M.,
+  2015.
+\newblock {Estimating chlorophyll with thermal and broadband multispectral high
+  resolution imagery from an unmanned aerial system using relevance vector
+  machines for precision agriculture}.
+\newblock {\em International Journal of Applied Earth Observation and
+  Geoinformation} 43, pp.~32--42.
+
+\bibitem[Hansen and Schjoerring, 2003]{Hansen2003}
+Hansen, P.~M. and Schjoerring, J.~K., 2003.
+\newblock {Reflectance measurement of canopy biomass and nitrogen status in
+  wheat crops using normalized difference vegetation indices and partial least
+  squares regression}.
+\newblock {\em Remote Sensing of Environment} 86(4), pp.~542--553.
+
+\bibitem[Houborg et al., 2015]{Houborg2015}
+Houborg, R., Fisher, J.~B. and Skidmore, A.~K., 2015.
+\newblock {Advances in remote sensing of vegetation function and traits}.
+\newblock {\em International Journal of Applied Earth Observation and
+  Geoinformation} 43, pp.~1--6.
+
+\bibitem[Imani and Ghassemian, 2015]{Imani2015}
+Imani, M. and Ghassemian, H., 2015.
+\newblock {Ridge regression-based feature extraction for hyperspectral data}.
+\newblock {\em International Journal of Remote Sensing} 36(6), pp.~1728--1742.
+
+\bibitem[Ismail and Mutanga, 2010]{Ismail2010}
+Ismail, R. and Mutanga, O., 2010.
+\newblock {A comparison of regression tree ensembles: Predicting Sirex noctilio
+  induced water stress in Pinus patula forests of KwaZulu-Natal, South Africa}.
+\newblock {\em International Journal of Applied Earth Observation and
+  Geoinformation}.
+
+\bibitem[Jay et al., 2017]{Jay2017}
+Jay, S., Maupas, F., Bendoula, R. and Gorretta, N., 2017.
+\newblock {Retrieving LAI, chlorophyll and nitrogen contents in sugar beet
+  crops from multi-angular optical remote sensing: Comparison of vegetation
+  indices and PROSAIL inversion for field phenotyping}.
+\newblock {\em Field Crops Research} 210, pp.~33--46.
+
+\bibitem[Ji et al., 2015]{Ji2015}
+Ji, G., Huang, G., Yang, Z., Wu, X., Chen, X. and Yuan, M., 2015.
+\newblock {Using consensus interval partial least square in near infrared
+  spectra analysis}.
+\newblock {\em Chemometrics and Intelligent Laboratory Systems} 144,
+  pp.~56--62.
+
+\bibitem[Kawamura et al., 2017]{Kawamura2017}
+Kawamura, K., Tsujimoto, Y., Rabenarivo, M., Asai, H., Andriamananjara, A. and
+  Rakotoson, T., 2017.
+\newblock {Vis-NIR spectroscopy and PLS regression with waveband selection for
+  estimating the total C and N of paddy soils in Madagascar}.
+\newblock {\em Remote Sensing}.
+
+\bibitem[Kitchen et al., 2010]{Kitchen2010}
+Kitchen, N.~R., Sudduth, K.~A., Drummond, S.~T., Scharf, P.~C., Palm, H.~L.,
+  Roberts, D.~F. and Vories, E.~D., 2010.
+\newblock {Ground-Based Canopy Reflectance Sensing for Variable-Rate Nitrogen
+  Corn Fertilization}.
+\newblock {\em Agronomy Journal} 102(1), pp.~71.
+
+\bibitem[Knipling, 1970]{Knipling1970}
+Knipling, E.~B., 1970.
+\newblock {Physical and physiological basis for the reflectance of visible and
+  near-infrared radiation from vegetation}.
+\newblock {\em Remote Sensing of Environment} 1(3), pp.~155--159.
+
+\bibitem[Kooistra and Clevers, 2016]{Kooistra2016}
+Kooistra, L. and Clevers, J. G. P.~W., 2016.
+\newblock {Estimating potato leaf chlorophyll content using ratio vegetation
+  indices}.
+\newblock {\em Remote Sensing Letters} 7(6), pp.~611--620.
+
+\bibitem[Li et al., 2010]{Li2010}
+Li, F., Miao, Y., Hennig, S.~D., Gnyp, M.~L., Chen, X., Jia, L. and Bareth, G.,
+  2010.
+\newblock {Evaluating hyperspectral vegetation indices for estimating nitrogen
+  concentration of winter wheat at different growth stages}.
+\newblock {\em Precision Agriculture} 11(4), pp.~335--357.
+
+\bibitem[Mulla, 2013]{Mulla2013}
+Mulla, D.~J., 2013.
+\newblock {Twenty five years of remote sensing in precision agriculture: Key
+  advances and remaining knowledge gaps}.
+\newblock {\em Biosystems Engineering} 114(4), pp.~358--371.
+
+\bibitem[N{\"{a}}si et al., 2017]{Nasi2017}
+N{\"{a}}si, R., Viljanen, N., Kaivosoja, J., Hakala, T., Pand{\v{z}}i{\'{c}},
+  M., Markelin, L. and Honkavaara, E., 2017.
+\newblock {Assessment of various remote sensing technologies in biomass and
+  nitrogen content estimation using an agricultural test field}.
+\newblock {\em ISPRS - International Archives of the Photogrammetry, Remote
+  Sensing and Spatial Information Sciences} 24(3W3), pp.~137--141.
+
+\bibitem[Prasad et al., 2006]{Prasad2006}
+Prasad, A.~M., Iverson, L.~R. and Liaw, A., 2006.
+\newblock {Newer classification and regression tree techniques: Bagging and
+  random forests for ecological prediction}.
+\newblock {\em Ecosystems} 9(2), pp.~181--199.
+
+\bibitem[Stewart, 1987]{Stewart1987}
+Stewart, G.~W., 1987.
+\newblock {Collinearity and Least Squares Regression}.
+\newblock {\em Statistical Science} 2(1), pp.~68--84.
+
+\bibitem[Strobl et al., 2008]{Strobl2008}
+Strobl, C., Boulesteix, A.-L., Kneib, T., Augustin, T. and Zeileis, A., 2008.
+\newblock {Conditional Variable Importance for Random Forests}.
+\newblock {\em BMC Bioinformatics} 9(1), pp.~307.
+
+\bibitem[Thorp et al., 2015]{Thorp2015}
+Thorp, K., Gore, M., Andrade-Sanchez, P., Carmo-Silva, A., Welch, S., White, J.
+  and French, A., 2015.
+\newblock {Proximal hyperspectral sensing and data analysis approaches for
+  field-based plant phenomics}.
+\newblock {\em Computers and Electronics in Agriculture} 118, pp.~225--236.
+
+\bibitem[{Van Der Meij} et al., 2017]{VanDerMeij2017}
+{Van Der Meij}, B., Kooistra, L., Suomalainen, J., Barel, J.~M. and {De Deyn},
+  G.~B., 2017.
+\newblock {Remote sensing of plant trait responses to field-based plant-soil
+  feedback using UAV-based optical sensors}.
+\newblock {\em Biogeosciences} 14(3), pp.~733--749.
+
+\bibitem[Xue and Su, 2017]{Xue2017}
+Xue, J. and Su, B., 2017.
+\newblock {Significant Remote Sensing Vegetation Indices: A Review of
+  Developments and Applications}.
+\newblock {\em Journal of Sensors} 2017, pp.~1--17.
+
+\end{thebibliography}
